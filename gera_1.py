@@ -4,22 +4,22 @@ import dask.dataframe as dd
 import matplotlib.pyplot as plt
 import streamlit as st
 
-kaz_2014 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-kaz_2015 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-kaz_2016 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-kaz_2017 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-krg_2014 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-krg_2015 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-krg_2016 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-krg_2017 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-uzb_2014 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-uzb_2015 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-uzb_2016 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-uzb_2017 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-tadj_2014 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-tadj_2015 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-tadj_2016 = pd.read_excel('https://XXXXXXXXXXXXXXX')
-tadj_2017 = pd.read_excel('https://XXXXXXXXXXXXXXX')
+kaz_2014 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+kaz_2015 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+kaz_2016 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+kaz_2017 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+krg_2014 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+krg_2015 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+krg_2016 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+krg_2017 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+uzb_2014 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+uzb_2015 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+uzb_2016 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+uzb_2017 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+tadj_2014 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+tadj_2015 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+tadj_2016 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
+tadj_2017 = pd.read_excel('https://github.com/drimuso/strlit/raw/main/qqw/kaz_2014.xlsx')
  
 
 pd_df_kz_2014 = kaz_2014
